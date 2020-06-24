@@ -4,4 +4,4 @@ def greeting(input)
 name = gets.strip
 end
 
-puts greeting(name)
+# puts greeting(name)
